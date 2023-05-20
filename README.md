@@ -3,6 +3,7 @@
 - 🤩 i'm interested in learning the ropes of machine learning next and how it can be integrated into data prediction
 - 🌱 i’m currently learning competitive programming using C++ and data analysis using Python Pandas
 - 📫 my gmail: phamngockhanhlinh007@gmail.com
+- ✨ more info about me can be reached at: https://pnklinh.github.io
 
 <!---
 pnklinh/pnklinh is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
